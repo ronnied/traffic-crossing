@@ -30,6 +30,9 @@ Since I didn't want the idle tone to play indefinitely after the completion of a
 
 # Links
 
+Link to example video of project:
+https://www.youtube.com/watch?v=Tf-1cvpUQFY
+
 Link to source recording:
 https://www.youtube.com/watch?v=n7N3M4OcoNs
 
